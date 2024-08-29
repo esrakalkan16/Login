@@ -1,0 +1,15 @@
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe.config
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.exe
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkinExample.pdb
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkin.dll
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\bin\Debug\MaterialSkin.pdb
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csprojAssemblyReference.cache
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.MainForm.resources
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.Properties.Resources.resources
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.GenerateResource.cache
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.CoreCompileInputs.cache
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.csproj.CopyComplete
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.exe
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.pdb
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.Login.resources
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkinExample\obj\Debug\MaterialSkinExample.PrepareData.resources

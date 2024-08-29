@@ -1,0 +1,7 @@
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.pdb
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.Properties.Resources.resources
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.csproj.GenerateResource.cache
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.dll
+C:\Users\RADUSWEB\Desktop\Templates\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.pdb
