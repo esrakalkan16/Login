@@ -1,7 +1,0 @@
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\MaterialSkinExample.CompareScreen.resources
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\MaterialSkinExample.PrepareData.resources
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\MaterialSkinExample.Login.resources
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\MaterialSkinExample.MainForm.resources
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\StajApp.template__1_.MaterialSkin_master.MaterialSkinExample.Properties.Resources.resources
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\StajApp.template__1_.MaterialSkin_master.MaterialSkin.Properties.Resources.resources
-C:\Users\esra\source\repos\StajApp\StajApp\obj\Debug\net7.0\StajApp.csproj.GenerateResource.cache
